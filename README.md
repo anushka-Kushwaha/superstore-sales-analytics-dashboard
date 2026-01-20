@@ -37,8 +37,6 @@ This project focuses on transforming raw Superstore sales data into meaningful b
 
 ## 🖼 Dashboard Preview
 ![Dashboard Screenshot](das<img width="1646<img width="1641" height="567" alt="Screenshot 2026-01-20 121352" src="https://github.com/user-attachments/assets/c554dc71-67e3-4cf4-a3ad-c737ba69055c" />
-" height="594" alt="Screenshot 2026-01-20 014230" src="https://github.com/user-attachments/assets/5d81d92f-a499-46a8-9790-54fcafbe6793" />
-hboard.png)
 
 ---
 
